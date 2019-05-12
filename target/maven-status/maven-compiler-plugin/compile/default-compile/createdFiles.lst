@@ -1,0 +1,7 @@
+domain\Comment.class
+rest\TestRest.class
+domain\Movie.class
+domain\services\MovieService.class
+domain\Rating.class
+rest\ApplicationConfig.class
+rest\MoviesResources.class
